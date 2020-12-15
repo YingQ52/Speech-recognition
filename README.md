@@ -1,5 +1,5 @@
 # Speech-recognition
-# ## Trigger Word Detection
+# # Trigger Word Detection
 # 
 # - Structure a speech recognition project
 # - Synthesize and process audio recordings to create train/dev datasets
